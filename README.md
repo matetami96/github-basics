@@ -1,4 +1,4 @@
-# Course Code & Materials
+# Course Code & Materials (just copied from Academind react-course README.md)
 
 This repository contains the course source code and other extra materials like slides.
 
